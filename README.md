@@ -1,0 +1,2 @@
+# prog-gyak
+csak gyakorlasok
